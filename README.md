@@ -1,3 +1,3 @@
 # PROGRAM UMKM KOPERASI BANK SAMPAH
 
-Program berbasis CLI untuk memenuhi tuhas ETL Batch 9
+Program berbasis CLI untuk memenuhi Tugas ETL Batch 9
