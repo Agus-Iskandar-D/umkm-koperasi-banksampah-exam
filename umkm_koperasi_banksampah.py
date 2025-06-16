@@ -5,7 +5,7 @@ class UMKMSystem:
     def __init__(self, nama_umkm):
         self.nama_umkm = nama_umkm
         self.anggota = []
-        self.dana_pinjaman = 50000000  # Rp50 juta
+        self.dana_pinjaman = 50000000
 
     # Query 2: Method untuk Menambah Anggota UMKM
     def tambah_anggota(self, nama, jumlah_pinjaman):
